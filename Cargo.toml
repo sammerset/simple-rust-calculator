@@ -1,0 +1,11 @@
+[package]
+name = "rust-smart-calc"
+version = "0.1.0"
+authors = ["Sam <sammerset@ukr.net>"]
+edition = "2018"
+
+[dependencies]
+nickel = "*"
+serde="*"
+serde_derive="*"
+serde_json = "1.0"
